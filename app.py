@@ -37,6 +37,8 @@ st.markdown("""
 img {
     border-radius: 50%;
     border: 3px solid rgba(0,255,200,0.6);
+    object-fit: cover;
+    aspect-ratio: 1 / 1;
 }
 
 /* glass cards */
